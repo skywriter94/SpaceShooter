@@ -1,0 +1,9 @@
+SpaceShooter\Library\PackageCache로 이동하여
+
+com.unity.postprocessing@2.0.3-preview 폴더를 삭제 후에 실행
+
+
+또는
+
+
+실행 후 나오는 에러메시지가 뜨는 행들을 주석처리 하고 실행해야 합니다.
